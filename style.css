@@ -1,0 +1,49 @@
+body{
+  background-color:;
+}
+
+
+hr{
+    border-style: dotted;
+    width: 5%;
+    border-width: 5px;
+    border-top: none;
+}
+
+a{
+  color: aliceblue;
+  text-decoration: none;
+}
+
+.elements {
+  text-decoration: none;
+  color: rgb(245, 243, 247);
+  position: relative;
+  top: -1520px;
+  left: 700px;
+  rotate: 270deg;
+  font-size: large;
+}
+
+.div{
+  height: 50px;
+  width: 50px;
+  rotate: 500deg;
+}
+
+.about{
+  position: relative;
+  top: 18px;
+  right: 220px;
+}
+
+.contact{
+  position: relative;
+  top: 38px;
+  right: 455px;
+}
+
+
+body{
+  background-color: black;
+}
